@@ -3,6 +3,12 @@
 
 # This script use wget tool to clone targeted website
 
+## Run Script
+./re.sh
+## Command
+1-Clone Website
+2-Exit
+
 Wget Tool License
 
 Copyright (C) 2015 Free Software Foundation, Inc.
